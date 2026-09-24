@@ -1,38 +1,38 @@
-# 曹光明 · Cao Guangming
+# Cao Guangming
 
-**算法工程师｜计算机视觉、机器学习与 AI 应用工程**
+**Algorithm Engineer · Computer Vision · Machine Learning · Applied AI**
 
-你好，我是曹光明。我喜欢把算法做成真正能被使用的工具：从理解数据和问题、设计模型与评估方法，到把能力接入服务、处理边界情况并持续改进。数学训练让我习惯追问方法为什么有效；工程实践则让我关注它在真实场景里是否可靠。
+Hi, I'm Guangming. I enjoy turning algorithms into tools people can actually use—from understanding the data and choosing an approach to building a service, handling edge cases, and improving it over time. My background in mathematics makes me ask why a method works; engineering has taught me to ask whether it works reliably outside a notebook.
 
-2024 年起，我在格力电器从事算法工程工作。此前在天津大学完成数学与应用数学本科（2017—2021），在中国科学院大学电子电气与通信工程学院攻读硕士（2021—2024），研究方向为计算机视觉与机器学习。
+Since 2024, I have worked as an algorithm engineer at Gree Electric Appliances. I studied Mathematics and Applied Mathematics at Tianjin University (2017–2021), then pursued a master's degree at the University of Chinese Academy of Sciences (2021–2024), focusing on computer vision and machine learning.
 
-## 我在做什么
+## What I work on
 
-过去两年的工作主要围绕这些方向展开：
+My work over the past two years has centered on:
 
-- **文档智能与信息提取**：处理扫描件、PDF 和图片中的内容，构建从解析、结构化抽取到结果校验的流程；也探索过长文档的版本差异识别与人工复核机制。
-- **视觉与多模态应用**：将图像理解、OCR 和几何特征用于实际业务问题，关注模型输出的可验证性，以及复杂输入下的回退和质量控制。
-- **AI 服务工程化**：参与模型推理服务、接口集成、部署与自动化发布，让算法能力能够在应用中稳定运行。
+- **Document intelligence and information extraction:** building workflows that parse scanned documents, PDFs, and images, extract structured information, and validate the results. I have also worked on comparing revisions of long documents with human review built into the process.
+- **Vision and multimodal applications:** applying image understanding, OCR, and geometric features to practical problems, with attention to verifiable outputs, fallback paths, and quality checks.
+- **AI service engineering:** integrating model inference into applications and working on deployment and automated releases so these capabilities remain usable in production.
 
-这些工作涉及公司内部项目，因此这里介绍的是问题领域和工作方式，不公开项目代码、业务数据或内部系统细节。
+These are areas of work from internal company projects. The project code, business data, and internal system details are not public.
 
-## 常用技术与工具
+## Tools I use
 
-- **算法与数据处理**：Python、PyTorch、OpenCV、NumPy、Pandas；计算机视觉、OCR 与多模态模型应用。
-- **应用开发**：FastAPI、Gradio、SQLite；将模型能力封装为可调用的接口和可交互的工具。
-- **部署与协作**：Docker、Kubernetes、vLLM、Jenkins、Git；模型服务部署、自动化发布与运行检查。
+- **Algorithms and data:** Python, PyTorch, OpenCV, NumPy, and Pandas; computer vision, OCR, and multimodal models.
+- **Applications:** FastAPI, Gradio, and SQLite; turning model capabilities into APIs and interactive tools.
+- **Deployment and collaboration:** Docker, Kubernetes, vLLM, Jenkins, and Git; model serving, automated releases, and operational checks.
 
-## 公开作品
+## Projects I can share
 
-- [Crystal Wallpaper](https://github.com/guangminglftg/crystal-wallpaper) — 用 Python、GTK 和 Cairo 制作的交互式 Linux 动态桌面。16 种几何造型，支持鼠标跟随与实时设置。
-- [Weight Management](https://github.com/guangminglftg/weight-management) — 本地健康记录应用，使用 Gradio 和 SQLite；AI 通过受限的只读工具按需查询记录。
+- [Crystal Wallpaper](https://github.com/guangminglftg/crystal-wallpaper) — an interactive Linux desktop wallpaper built with Python, GTK, and Cairo. It includes 16 geometric shapes, mouse interaction, and live settings.
+- [Weight Management](https://github.com/guangminglftg/weight-management) — a local health journal built with Gradio and SQLite. Its AI assistant queries records on demand through restricted, read-only tools.
 
-这两个项目来自我对「把想法做成可用产品」的兴趣，也展示了我在算法工作之外对交互、工程细节和个人工具的探索。
+These personal projects reflect my interest in making ideas usable, as well as my curiosity about interaction design and the small engineering details that shape an everyday tool.
 
-## 工作之外
+## Outside work
 
-我喜欢篮球和运动，也喜欢做能改善日常体验的小工具。
+I enjoy basketball, staying active, and building small tools that make daily life a little easier.
 
-## 联系我
+## Get in touch
 
-我愿意交流计算机视觉、AI 应用和算法工程相关的工作机会与技术问题。欢迎通过 [lightcao.ai@gmail.com](mailto:lightcao.ai@gmail.com) 联系我。
+I'm open to conversations about opportunities and technical work in computer vision, applied AI, and algorithm engineering. Reach me at [lightcao.ai@gmail.com](mailto:lightcao.ai@gmail.com).
