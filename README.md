@@ -16,6 +16,12 @@
 
 这些工作涉及公司内部项目，因此这里介绍的是问题领域和工作方式，不公开项目代码、业务数据或内部系统细节。
 
+## 常用技术与工具
+
+- **算法与数据处理**：Python、PyTorch、OpenCV、NumPy、Pandas；计算机视觉、OCR 与多模态模型应用。
+- **应用开发**：FastAPI、Gradio、SQLite；将模型能力封装为可调用的接口和可交互的工具。
+- **部署与协作**：Docker、Kubernetes、vLLM、Jenkins、Git；模型服务部署、自动化发布与运行检查。
+
 ## 公开作品
 
 - [Crystal Wallpaper](https://github.com/guangminglftg/crystal-wallpaper) — 用 Python、GTK 和 Cairo 制作的交互式 Linux 动态桌面。16 种几何造型，支持鼠标跟随与实时设置。
